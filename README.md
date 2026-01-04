@@ -1,22 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f3ff&height=180&section=header&text=CYBERINT%20//%20OS&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f3ff&height=150&section=header&text=CYBERINT%20//%20OS&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=ADVANCED+OSINT+LEAK+INTELLIGENCE;SECURE+%2F%2F+FAST+%2F%2F+ETHICAL;LIVE+DATABASE+QUERY+INTERFACE" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=github&logoColor=00f3ff"/>
 <img src="https://img.shields.io/badge/PLATFORM-WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=00f3ff"/>
 <img src="https://img.shields.io/badge/SECURITY-ETHICAL-000000?style=for-the-badge&logo=shield&logoColor=00f3ff"/>
+</p>
+
+<a href="https://gh0stlung.github.io/LEAK-DATA-BASE-FINDER/">
+  <img src="https://img.shields.io/badge/LAUNCH_SYSTEM-LIVE_DEMO_>>-ff003c?style=for-the-badge&logoColor=black&labelColor=000000"/>
+</a>
 
 <br/><br/>
 
-<a href="https://gh0stlung.github.io/LEAK-DATA-BASE-FINDER/">
-  <img src="https://img.shields.io/badge/LAUNCH_SYSTEM-LIVE_DEMO_>>-00f3ff?style=for-the-badge&logoColor=black&labelColor=000000"/>
-</a>
+<pre style="background: #0d1117; border: 2px solid #ff003c; border-radius: 8px; padding: 15px; width: 90%; color: #fff;">
+<span style="color: #ff003c; font-size: 18px; font-weight: bold;">🛑  SYSTEM OVERRIDE DETECTED  🛑</span>
+
+<span style="color: #00f3ff;">Want to test the UI without a key?</span>
+
+Type <span style="background: #ff003c; color: #fff; padding: 2px 10px; border-radius: 4px; font-weight: bold;">DEMO</span> in the API Input Box.
+</pre>
 
 </div>
 
