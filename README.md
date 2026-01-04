@@ -1,169 +1,108 @@
-# 🧠 CYBERINT // OS  
-### Advanced OSINT Leak Intelligence Interface
+<div align="center">
 
-> A cyber-styled, web-based OSINT system for searching public leak datasets via official APIs, with strong focus on stability, clarity, and controlled access.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f3ff&height=180&section=header&text=CYBERINT%20//%20OS&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-![Status](https://img.shields.io/badge/status-active-success)
-![Platform](https://img.shields.io/badge/platform-web-blue)
-![Tech](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-orange)
-![Security](https://img.shields.io/badge/OSINT-ethical-important)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=ADVANCED+OSINT+LEAK+INTELLIGENCE;SECURE+%2F%2F+FAST+%2F%2F+ETHICAL;LIVE+DATABASE+QUERY+INTERFACE" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## 🔍 What is CYBERINT // OS?
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=github&logoColor=00f3ff"/>
+<img src="https://img.shields.io/badge/PLATFORM-WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=00f3ff"/>
+<img src="https://img.shields.io/badge/SECURITY-ETHICAL-000000?style=for-the-badge&logo=shield&logoColor=00f3ff"/>
 
-**CYBERINT // OS** is a futuristic OSINT web interface that allows users to query public leak intelligence databases using **official API access**, presented in a terminal-style UI.
+<br/><br/>
 
-It is designed to:
-- Visualize results clearly
-- Handle API limits safely
-- Work smoothly on **Android, iOS (Safari), and Desktop**
-- Never scrape, bypass, or fake data sources
+<a href="https://gh0stlung.github.io/LEAK-DATA-BASE-FINDER/">
+  <img src="https://img.shields.io/badge/LAUNCH_SYSTEM-LIVE_DEMO_>>-00f3ff?style=for-the-badge&logoColor=black&labelColor=000000"/>
+</a>
 
----
-
-## ✨ Key Features
-
-- 🧪 **Live OSINT Queries**  
-  Search using email, phone, username, IP, and more (based on API support)
-
-- 🧠 **Smart Result Parsing**  
-  - No `[object Object]` errors  
-  - Handles masked / partial results  
-  - Clean key-value report cards  
-
-- 🖥️ **Terminal-Style UI**  
-  Cyberpunk-inspired interface with logs, status output, and dossiers
-
-- 🌐 **Cloudflare Worker Proxy**  
-  Secure middle layer for API requests (CORS safe)
-
-- 📱 **Mobile-First & iOS Safe**  
-  - Dynamic viewport height  
-  - Safe-area support (notch & home bar)  
-  - No cut buttons or hidden reports  
-
-- 🔐 **Client-Side API Key Handling**  
-  API key stored locally in browser (never hardcoded)
+</div>
 
 ---
 
-## 🧰 Tech Stack
+### 🔍 WHAT IS CYBERINT // OS?
 
-- **Frontend:**  
-  `HTML5`, `CSS3`, `Vanilla JavaScript`
+> **CYBERINT // OS** is a futuristic OSINT web interface that allows users to query public leak intelligence databases using **official API access**, presented in a terminal-style UI.
 
-- **Proxy Layer:**  
-  `Cloudflare Workers`
-
-- **UI Style:**  
-  Terminal / Cyberpunk / OS-like layout
-
-- **Hosting:**  
-  GitHub Pages
+It is designed to visualize results clearly, handle API limits safely, and work smoothly on **Android, iOS, and Desktop** without ever scraping or faking data.
 
 ---
 
-## 🚀 Live Demo
+### ✨ KEY FEATURES
 
-👉 **Live Website:**  
-`https://gh0stlung.github.io/LEAK-DATA-BASE-FINDER/`
-
+| Feature | Description |
+| :--- | :--- |
+| 🧪 **Live Queries** | Search Email, Phone, User, IP via official APIs. |
+| 🧠 **Smart Parsing** | No `[object Object]` errors. Clean key-value reports. |
+| 🖥️ **Terminal UI** | Cyberpunk-inspired interface with logs & dossiers. |
+| 🌐 **Secure Proxy** | Cloudflare Worker middle-layer for CORS safety. |
+| 📱 **Mobile First** | Full iOS/Android support (Notch & Safe-area ready). |
+| 🔐 **Client Key** | API Key stored locally in browser (Never hardcoded). |
 
 ---
 
-## 🔐 API Key Access & Activation
+### 🧰 TECH STACK
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00f3ff"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00f3ff"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00f3ff"/>
+  <img src="https://img.shields.io/badge/CLOUDFLARE-000000?style=for-the-badge&logo=cloudflare&logoColor=00f3ff"/>
+</div>
+
+---
+
+### 🔐 ACCESS & ACTIVATION
 
 To protect the system from abuse, API access is controlled.
 
-**How to get access:**
-1. Join the official Telegram channel.
-2. Generate your personal API key inside the bot.
-3. Enter the key on the website when prompted.
+1.  **Join the Channel:** Official Telegram.
+2.  **Generate Key:** Get your personal API key from the bot.
+3.  **Activate:** Enter the key on the website.
 
-🔗 **Telegram Channel:** [(https://t.me/+6PZP5-4jY9ExYTJl)]
-> Without a valid key, scans may return limited or masked results.
+<div align="center">
+  <a href="https://t.me/+6PZP5-4jY9ExYTJl">
+    <img src="https://img.shields.io/badge/GET_ACCESS_KEY-TELEGRAM_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</div>
 
-## 🛠️ How to Use
-
-1. Open the website
-2. Enter your **official API key** when prompted
-3. Input a target:
-   - Email
-   - Phone number
-   - Username
-   - IP address
-4. Choose:
-   - **Standard Scan**
-   - **Deep Search** (higher limit, if allowed)
-5. Open **Compiled Dossier** to view results
+> ⚠️ **Note:** Without a valid key, scans may return limited or masked results.
 
 ---
 
-## 📊 Result Behavior (Important)
+### 🛠️ HOW TO USE
 
-- ✅ If data exists but is restricted:
-  - The app **explains why**
-  - Shows partial metadata if allowed
-
-- 🚫 If subscription or free-trial limits apply:
-  - Results are marked as **restricted**
-  - App does **not** appear broken
-
-- 🔒 Sensitive data (passwords, minors, financial data):
-  - Always masked, per API rules
+<pre style="background-color: #050505; border: 1px solid #00f3ff; color: #00f3ff; font-family: 'Courier New'; padding: 15px; border-radius: 6px;">
+1. OPEN WEBSITE   >> Launch Live Demo
+2. AUTHENTICATE   >> Enter Official API Key
+3. SET TARGET     >> Input Email / Phone / User / IP
+4. SELECT MODE    >> Standard Scan OR Deep Search
+5. EXECUTE        >> View Compiled Dossier
+</pre>
 
 ---
 
-## ⚠️ Limitations
+### 📊 RESULT BEHAVIOR
 
-- This project **does NOT**:
-  - Scrape Telegram bots
-  - Emulate paid features
-  - Bypass API restrictions
-  - Store or log user data
-
-- Output depends entirely on:
-  - API access level
-  - Subscription status
-  - Query type
+* ✅ **Restricted Data:** If data exists but is private, the app explains why.
+* 🚫 **Limit Reached:** Results marked as restricted; app does *not* break.
+* 🔒 **Sensitive Data:** Passwords and financial data are always masked per API rules.
 
 ---
 
-## 📜 Legal & Ethical Notice
+### ⚠️ LIMITATIONS & LEGAL
 
 > **CYBERINT // OS is for educational, defensive security, and research purposes only.**
 
-- Use only on data you are authorized to test
-- Do not violate privacy laws
-- Developer is not responsible for misuse
+* This project does **NOT** scrape, bypass, or emulate paid features.
+* Output depends entirely on your API access level.
+* **Do not violate privacy laws.** The developer is not responsible for misuse.
 
 ---
 
-## 🧩 Project Status
-
-- ✅ Core scanning stable  
-- ✅ Mobile & iOS Safari fixed  
-- ✅ UI overflow issues resolved  
-- 🔄 Ongoing improvements
-
----
-
-## 🤝 Contributing
-
-This project is currently **closed-source contributions**.  
-Suggestions and issues are welcome via GitHub Issues.
-
----
-
-## ⭐ Support
-
-If you like this project:
-- ⭐ Star the repo
-- 🔗 Share responsibly
-- 🧠 Use ethically
-
----
-
-**CYBERINT // OS**  
-*Observe. Analyze. Stay ethical.* 🕶️
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,100:000000&height=100&section=footer" width="100%"/>
+  <p style="font-size: 12px;">CYBERINT // OS - OBSERVE. ANALYZE. STAY ETHICAL.</p>
+</div>
