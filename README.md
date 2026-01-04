@@ -69,9 +69,20 @@ It is designed to:
 👉 **Live Website:**  
 `https://gh0stlung.github.io/LEAK-DATA-BASE-FINDER/`
 
-> Replace the link above with your actual GitHub Pages URL.
 
 ---
+
+## 🔐 API Key Access & Activation
+
+To protect the system from abuse, API access is controlled.
+
+**How to get access:**
+1. Join the official Telegram channel.
+2. Generate your personal API key inside the bot.
+3. Enter the key on the website when prompted.
+
+🔗 **Telegram Channel:** [(https://t.me/+6PZP5-4jY9ExYTJl)]
+> Without a valid key, scans may return limited or masked results.
 
 ## 🛠️ How to Use
 
