@@ -71,7 +71,7 @@ To protect the system from abuse, API access is controlled.
 3.  **Activate:** Enter the key on the website.
 
 <div align="center">
-  <a href="https://t.me/+6PZP5-4jY9ExYTJl">
+  <a href="https://t.me/+cLbXt9Z8--4zNzQ1">
     <img src="https://img.shields.io/badge/GET_ACCESS_KEY-TELEGRAM_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
